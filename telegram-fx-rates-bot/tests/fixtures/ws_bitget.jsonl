@@ -1,0 +1,2 @@
+{"event":"subscribe","arg":{"instType":"SPOT","channel":"ticker","instId":"BTCUSDT"}}
+{"action":"snapshot","arg":{"instType":"SPOT","channel":"ticker","instId":"BTCUSDT"},"data":[{"instId":"BTCUSDT","lastPr":"61541.68","open24h":"60890.72","high24h":"61956.52","low24h":"59667","change24h":"0.02912","bidPr":"61541.68","askPr":"61541.69","bidSz":"0.099514","askSz":"4.991055","baseVolume":"7229.836814","quoteVolume":"441110368.56505","openUtc":"61270.32","changeUtc24h":"0.00409","ts":"1795424642809"}],"ts":1795424642817}

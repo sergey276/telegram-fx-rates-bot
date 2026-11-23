@@ -1,0 +1,4 @@
+{"success":true,"ret_msg":"subscribe","conn_id":"dbqqoc4s53m15ac39a80-338ml","op":"subscribe"}
+{"topic":"tickers.BTCUSDT","ts":1795424637966,"type":"snapshot","cs":118515653343,"data":{"symbol":"BTCUSDT","lastPrice":"61519.5","highPrice24h":"61968.5","lowPrice24h":"59661.7","prevPrice24h":"59739.5","volume24h":"12724.023326","turnover24h":"776762283.49762706","price24hPcnt":"0.0298","usdIndexPrice":"61428.075728"}}
+{"topic":"orderbook.1.BTCUSDT","ts":1795424638004,"type":"snapshot","data":{"s":"BTCUSDT","b":[["61519.4","0.537696"]],"a":[["61519.5","0.016963"]],"u":5618484,"seq":118515653459},"cts":1795424638002}
+{"topic":"orderbook.1.BTCUSDT","ts":1795424638024,"type":"snapshot","data":{"s":"BTCUSDT","b":[["61519.4","0.537696"]],"a":[["61520.5","0.003857"]],"u":5618485,"seq":118515653509},"cts":1795424638022}

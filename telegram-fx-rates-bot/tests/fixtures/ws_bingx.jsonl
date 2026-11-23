@@ -1,0 +1,3 @@
+{"code":0,"id":"a1","msg":"SUCCESS","timestamp":1795424648801}
+{"code":0,"data":{"c":"61514.87","e":"lastPriceUpdate","s":"BTC-USDT"},"dataType":"BTC-USDT@lastPrice","success":true,"timestamp":1795424649411}
+{"code":0,"data":{"A":"0.006231","B":"0.001386","E":1795424649504,"a":"61514.88","b":"61514.87","e":"bookTicker","s":"BTC-USDT"},"dataType":"BTC-USDT@bookTicker","success":true,"timestamp":1795424649504}

@@ -1,0 +1,20 @@
+# Секреты и локальные данные
+.env
+*.db
+*.sqlite3
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE / ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

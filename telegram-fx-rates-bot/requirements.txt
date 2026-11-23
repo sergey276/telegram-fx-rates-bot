@@ -1,0 +1,11 @@
+aiogram>=3.13,<4
+aiohttp>=3.10,<4
+SQLAlchemy[asyncio]>=2.0.30,<3
+asyncpg>=0.29
+aiosqlite>=0.20
+alembic>=1.13,<2
+redis>=5.0,<7
+pydantic>=2.7,<3
+pydantic-settings>=2.3,<3
+matplotlib>=3.8
+tzdata>=2024.1

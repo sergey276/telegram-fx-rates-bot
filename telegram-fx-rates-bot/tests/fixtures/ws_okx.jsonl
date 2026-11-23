@@ -1,0 +1,3 @@
+{"event":"notice","msg":"WebSocket port 8443 will be retired soon. Please migrate to port 443.","code":"64010","connId":"bb1169d9"}
+{"event":"subscribe","arg":{"channel":"tickers","instId":"BTC-USDT"},"connId":"bb1169d9"}
+{"arg":{"channel":"tickers","instId":"BTC-USDT"},"data":[{"instType":"SPOT","instId":"BTC-USDT","last":"61524","lastSz":"0.00017","askPx":"61524.3","askSz":"0.46587346","bidPx":"61524.2","bidSz":"0.12179","open24h":"59790.4","high24h":"61964.8","low24h":"59666","sodUtc0":"61273.9","sodUtc8":"60890.5","volCcy24h":"527665748.952948435","vol24h":"8638.86311136","ts":"1795424639676"}]}
